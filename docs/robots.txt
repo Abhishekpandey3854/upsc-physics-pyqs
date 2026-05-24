@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abhishekpandey3854.github.io/upsc-physics-pyqs/sitemap.xml
